@@ -1,0 +1,62 @@
+[
+  {
+    "sound": "https://cdn.freesound.org/sounds/559/559378-0d1adb6d-ea01-4f14-bcb4-6ab3260e2904?filename=559378__garuda1982__rain-gutter-drip-sound-effect.wav",
+    "label": "rain",
+    "icon": "fa-twitter"
+  },
+  {
+    "sound": "https://cdn.freesound.org/sounds/527/527664-bf2d0def-c7aa-45d3-8b15-43ea2ea61ad2?filename=527664__straget__thunder.wav",
+    "label": "thunder",
+    "icon": "fa-pagelines"
+  },
+  {
+    "sound": "https://cdn.freesound.org/sounds/609/609329-34a83ad2-75d7-4225-ba0f-cd0d96292b46?filename=609329__klankbeeld__park-may-738pm-nl-210523_0284.wav",
+    "label": "forest",
+    "icon": "fa-dropbox"
+  },
+  {
+    "sound": "https://cdn.freesound.org/sounds/339/339324-e6877ab6-430f-4c17-a859-c262dc2423f3?filename=339324__inspectorj__stream-water-c.wav",
+    "label": "water stream",
+    "icon": "fa-dribbble"
+  },
+  {
+    "sound": "https://cdn.freesound.org/sounds/400/400632-0315f297-dbc2-4ff1-9cb5-cf6dc9e11611?filename=400632__inspectorj__ambience-seaside-waves-close-a.wav",
+    "label": "seaside",
+    "icon": "fa-docker"
+  },
+  {
+    "sound": "https://cdn.freesound.org/sounds/401/401672-d7a4c70b-a873-4dbd-b797-388bc6f35a26?filename=401672__adamjordaan140087__pouring-water.wav",
+    "label": "water",
+    "icon": "fa-algolia"
+  },
+  {
+    "sound": "https://cdn.freesound.org/sounds/65/65795-4d7c75d2-8e52-4a54-b879-eff61ad4f613?filename=65795__juskiddink__bonfire.wav",
+    "label": "bonfire",
+    "icon": "fa-apple"
+  },
+  {
+    "sound": "https://cdn.freesound.org/sounds/197/197328-d502c90a-0da5-42b4-9054-593ed2eb5bd1?filename=197328__jymdavis__summer-night-in-georgia.wav",
+    "label": "summer night",
+    "icon": "fa-figma"
+  },
+  {
+    "sound": "https://cdn.freesound.org/sounds/457/457895-69178e46-4f61-4ede-a616-534fa6144d1e?filename=457895__bvsowle__coffee-shop-chatter.m4a",
+    "label": "coffee shop",
+    "icon": "fa-slack"
+  },
+  {
+    "sound": "https://cdn.freesound.org/sounds/448/448213-b6b0db8d-7043-402f-abd6-2882e957b5af?filename=448213__florianreichelt__white-noise.wav",
+    "label": "white noise",
+    "icon": "fa-discord"
+  },
+  {
+    "sound": "https://cdn.freesound.org/sounds/571/571176-76f1518a-8618-45e6-bd2d-bc816bb44e0a?filename=571176__mutantra__noise-pink-10vu.wav",
+    "label": "pink noise",
+    "icon": "fa-medium"
+  },
+  {
+    "sound": "https://cdn.freesound.org/sounds/384/384117-97868978-ed53-4f3d-8d47-4107c7b4d998?filename=384117__afnan808__washing-machine-moderate-spin-wash.wav",
+    "label": "washing machine",
+    "icon": "fa-codepen"
+  }
+]

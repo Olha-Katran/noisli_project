@@ -1,0 +1,17 @@
+.baseElement {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.playlist-receptacle {
+    width: 50%;
+    margin-top: 40px;
+}
+
+input {
+    width: 100px;
+    height: 50px;
+    border: 1px solid grey;
+    border-radius: 20%;
+}

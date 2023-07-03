@@ -1,0 +1,32 @@
+[
+  {
+    "sounds": ["bonfire", "white noise", "rain"],
+    "label": "Random",
+    "icon": "fa-person fa-3x"
+  },
+  {
+    "sounds": ["pink noise", "seaside", "rain"],
+    "label": "Productivity",
+    "icon": "fa-person fa-3x"
+  },
+  {
+    "sounds": ["forest", "washing machine", "rain"],
+    "label": "Relax",
+    "icon": "fa-person fa-3x"
+  },
+  {
+    "sounds": ["coffee shop", "seaside", "rain"],
+    "label": "Sleep",
+    "icon": "fa-person fa-3x"
+  },
+  {
+    "sounds": ["forest", "seaside", "bonfire"],
+    "label": "For reading",
+    "icon": "fa-person fa-3x"
+  },
+  {
+    "sounds":["forest", "water", "rain"],
+    "label": "Meditation",
+    "icon": "fa-person fa-3x"
+  }
+]
